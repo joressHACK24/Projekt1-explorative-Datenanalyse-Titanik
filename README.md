@@ -21,7 +21,7 @@ Basierend auf 10 detaillierten Visualisierungen konnten folgende Schlüsse gezog
 ## Key Visualisierungen
 *(Hier ist ein Beispiel meiner Datenvisualisierung. Das vollständige Set von 10 Plots befindet sich hier).*
 
-![Titanic Datenvisualisierung](https://github.com/joressHACK24/KIingenieur-/blob/f7a0a993cee4094595ec7295da1ea2bd11b24117/Projekt1-Explorative%20DatenAnalyse/visualisierung_dataset_titanik.png)
+![Titanic Datenvisualisierung](https://github.com/joressHACK24/Projekt1-explorative-Datenanalyse-Titanik/blob/main/visualisierung_dataset_titanik.png)
 
 ## Lokale Ausführung
 Um dieser Skript lokal auszuführen:
